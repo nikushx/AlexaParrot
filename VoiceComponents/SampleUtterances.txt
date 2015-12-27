@@ -1,0 +1,7 @@
+MyParrotIntent my phrase is {hello how are you|Parrot}
+MyParrotIntent my parrot phrase is {oh my god i just wet myself|Parrot}
+MyParrotIntent my parrot phrase is {pretty much anything can go here|Parrot}
+SayMyParrotIntent whats my phrase
+SayMyParrotIntent what is my phrase
+SayMyParrotIntent what is my parrot phrase
+SayMyParrotIntent whats my parrot phrase

@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "MyParrotIntent",
+      "slots": [
+        {
+          "name": "Parrot",
+          "value": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "SayMyParrotIntent",
+      "slots": []
+    }
+  ]
+}
